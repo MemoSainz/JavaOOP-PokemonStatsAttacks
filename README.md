@@ -15,4 +15,4 @@ The process of the terminal will end when the user inserts an 'exit' there.
 
 <h2> Java Object-oriented programming </h2>
 
-All lefts reserved 	&#169; Memo Sainz 2024
+<b> All lefts reserved 	&#169; Memo Sainz 2024 </b>
