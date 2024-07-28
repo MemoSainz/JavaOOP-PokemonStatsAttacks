@@ -2,6 +2,8 @@
 
 ## A mini terminal-game of pokemon 
 
+Java Object-oriented programming
+
 It's a project in the terminal where the user is able to select a pokemon and see their stats as well their common attacks.
 
 In the project it was used both Interfaces and Abstract Classes.
