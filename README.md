@@ -12,6 +12,9 @@ As well, While loop was present among Switch statements.
 With the scanner class, the user can insert in the termina which pokemon desires to see their stats and attacks.
 The process of the terminal will end when the user inserts an 'exit' there.
 
+<br>
+<br>
+<br>
 
 <h2> Java Object-oriented programming </h2>
 
