@@ -1,6 +1,6 @@
 <div align="center">
 
-## A mini pokemon terminal-game 
+## A mini terminal-game of pokemon 
 
 It's a project in the terminal where the user is able to select a pokemon and see their stats as well their common attacks.
 
